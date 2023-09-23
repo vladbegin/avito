@@ -1,0 +1,17 @@
+beautifulsoup4
+requests
+lxml
+selenium==4.9.0
+fake-useragent
+tqdm
+apscheduler
+python-telegram-bot==12.8
+aiogram==2.16
+aiohttp==3.8.1
+telepot
+pyngrok
+streamlit
+tensorflow
+scikit-learn
+scipy
+matplotlib
